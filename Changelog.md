@@ -4,5 +4,6 @@
 - Added Changelog file
 - Add .gitignore file
 - Add Diagrams and Schematics
+- Add Media folder with Commercial video, the paper and pictures
 
 ### Start of project - Add Changes above this line ---------------------
